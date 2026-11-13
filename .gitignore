@@ -1,0 +1,5 @@
+﻿token*
+*.sql
+wp-content/uploads/
+wp-content/cache/
+

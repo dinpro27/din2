@@ -1,0 +1,8 @@
+0000.000 (0) Opened log file at time: Thu, 21 Sep 2017 08:28:09 +0000 on https://magazin.zelmatik.ru
+0000.003 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.12.35 WP: 4.7.6 PHP: 5.6.21-1mh (apache2handler, Linux 3.14.51-grsec x86_64 at gen218.hs.shared.masterhost.ru) MySQL: 5.6.28 WPLANG: ru_RU Server: Apache safe_mode: 0 max_execution_time: 60 memory_limit: 256M (used: 18.3M | 21.8M) multisite: N openssl: OpenSSL 1.0.1e 11 Feb 2013 mcrypt: Y LANG: ru_RU.CP1251 ZipArchive::addFile: Y
+0000.004 (0) Free space on disk containing Updraft's temporary directory: 100936.3 MB
+0000.006 (0) Tasks: Backup files:  (schedule: weekly) Backup DB: 1 (schedule: daily)
+0000.008 (0) Processed schedules. Tasks now: Backup files:  Backup DB: 1
+0000.010 (0) Requesting semaphore lock (d) (apparently via scheduler: last_scheduled_action_called_at=1505895948, seconds_ago=86541)
+0000.011 (0) Semaphore lock (d) failed (line 41)
+0000.012 (0) Failed to gain semaphore lock (d) - another backup of this type is apparently already active - aborting (if this is wrong - i.e. if the other backup crashed without removing the lock, then another can be started after 3 minutes)
